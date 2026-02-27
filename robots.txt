@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://poopemoji.xyz/sitemap.xml
